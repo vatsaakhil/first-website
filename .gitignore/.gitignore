@@ -1,0 +1,53 @@
+<title>A cosmic voyager</title>
+<link href='https://fonts.googleapis.com/css?family=Monofett' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Faster One' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Cinzel Decorative' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Cinzel Decorative' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Cedarville Cursive' rel='stylesheet'>
+<div class="row">
+  <div class="col-sm-8">
+    <h1 class="gstyle2"style="color:grey">Carl Sagan</h1>  </div>
+  <div class="col-sm-4">
+    <p class="gstyle4"> The cosmic poet </p> </div>
+</div>
+    <h2 class="gstyle" style="color:lightgrey">a tribute page</h2> </>
+<div class="row">
+  <div class="col-sm-4">
+  <img alt="Carl Sagan" class="small box img-responsive"src="http://news.nationalgeographic.com/content/dam/news/photos/000/776/77679.jpg"> 
+    <img alt="Carl Sagan" class="small box img-responsive"src="http://maxcdn.inspirationfeed.com/wp-content/uploads/2016/12/7-2-800x800.jpg">
+    <iframe width="410" height="315"
+src="https://www.youtube.com/embed/Sd4jTUF3CLo?autoplay=1">Video
+</iframe>
+    <h5>We are Johnny-come-latelys, apes are our cousin</h5>
+</div>
+<div class="col-sm-8">
+  <p class="gstyle3" style="color:white">Carl Edward Sagan was an American astronomer, cosmologist, astrophysicist, astrobiologist, author, science popularizer, and science communicator in astronomy and other natural sciences. He is best known for his work as a science popularizer and communicator.</p>
+  <div class="container">
+  <div style="background:lightgrey; !important" class="jumbotron">
+    <h2>Timeline of Carl Sagan's life</h2> 
+    <ul>
+      <li><b>1934</b> Born in Brooklyn, NYC</li>
+        <li><b>1951</b> Graduated high school aged 16 and headed to the University of Chicago, where experiments he conducted drove his fascination with the possibility of alien life</li>
+          <li><b>1955</b> Graduated with a BA in physics, and he took his master’s a year later. Four years later, Sagan moved to California after obtaining a PhD in astronomy and astrophysics, landing at the University of California, Berkeley </li>
+            <li><b>1968</b> Sagan became the director of Cornell University’s Laboratory for Planetary Studies, Working with NASA, Sagan was involed in Viking and Voyager probes </li>
+              <li>Publised works such as The Cosmic Connection: An Extraterrestrial Perspective (1973), Other Worlds (1975), The Dragons of Eden: Speculations on the Evolution of Human Intelligence (1977; Pulitzer Prize winner) and his 1985 novel, Contact (made into a film starring Jodie Fosterin 1997) </li>
+                <li><b>1980</b> Co-founded the Planetary Society, an international nonprofit organization focusing on space exploration, and also launched the hugely influential TV series Cosmos: A Personal Voyage, which he wrote and hosted. </li>
+                  <li>Another of his famous works, Pale Blue Dot: A Vision of the Human Future in Space (1994), was the sequel to Cosmos and was inspired by the famous Pale Blue Dot photograph, which shows Earth as a mere speck in space </li>
+      <li><b>1996</b> He died of pneumonia, a complication of the bone-marrow disease myelodysplasia, on December 20, 1996, at age 62 </li>
+    </ul> 
+    </div>
+    <h3 style="color:white"> More about Carl Sagan here <a href="https://en.wikipedia.org/wiki/Carl_Sagan
+"target="_blank">
+<img border="0" alt="Sagan wiki" src="http://tctechcrunch2011.files.wordpress.com/2010/05/wikipedia1.png" width="70" height="70">
+      <a href="http://www.smithsonianmag.com/science-nature/why-carl-sagan-truly-irreplaceable-180949818/"target="_blank">
+<img border="0" alt="Sagan wiki" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/2000px-Smithsonian_logo_color.svg.png" width="60" height="60">
+      
+</a> </h3>
+</div>
+    <footer class="text-right">
+    <hr>
+   <p class="gstyle5">Made by
+      <a href="https://github.com/vatsaakhil" target="_blank">Akhil Vatsa</a>
+      <p>FreeCodeCamp Project</p>
+ </div>
+ 
